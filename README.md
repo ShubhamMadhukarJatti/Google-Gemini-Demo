@@ -1,19 +1,17 @@
-This is the Official repository of **Spring AI Masters** from EmbarkX.com
+This is the Official repository of **Spring AI Masters** 
 
 # The Ultimate Java and Spring Boot Mastery
 
-Welcome to your one-stop-shop for mastering Java and Spring Boot! This repository offers a comprehensive learning experience with high-quality resources and community support. Dive into over 150+ hours of premium content, with everything you need to excel at Java and Spring Boot development.
+Welcome to your one-stop-shop for mastering Java and Spring Boot! This repository offers a comprehensive learning experience with high-quality resources and community support. Dive into over 150+ hours , with everything you need to excel at Java and Spring Boot development.
 
 ## 🎓 Learning Roadmap
 
-Most of the courses below are available in **Udemy For Business**, so if you have subscription - you can get FREE access.
-Here’s a structured path to enhance your skills with detailed courses available:
 
-1. **[Spring Boot By Building Complex Projects Step by Step](https://link.embarkx.com/spring-boot) (50+ Hours of Content)**
-2. **[Master Spring Boot Microservices](https://link.embarkx.com/microservices) (23+ Hours of Content)**
-3. **[Learn Java with 60+ Hours of Content](http://link.embarkx.com/java) (60+ Hours of Content)**
-4. **[Master Spring Security with React JS + OAuth2](https://link.embarkx.com/spring-security) (34+ Hours of Content)**
-5. **[Master IntelliJ IDEA](http://link.embarkx.com/intellij) (3+ Hours of Content)**
+1. **[Spring Boot By Building Complex Projects Step by Step](50+ Hours of Content)**
+2. **[Master Spring Boot Microservices] (23+ Hours of Content)**
+3. **[Learn Java with 60+ Hours of Content] (60+ Hours of Content)**
+4. **[Master Spring Security with React JS + OAuth2] (34+ Hours of Content)**
+5. **[Master IntelliJ IDEA]( (3+ Hours of Content)**
 
 
 ## 🌟 With All Our Courses You Gain Access To
@@ -28,20 +26,15 @@ Here’s a structured path to enhance your skills with detailed courses availabl
 
 With this series, you're not just learning; you're preparing to dominate the field of Java and Spring Boot development. Our structured learning path ensures that you build your skills progressively, with each course designed to build on the knowledge gained from the previous one.
 
-### Join Us Now!
-
-Start your journey today to become a master at Java and Spring Boot. Our community and expert instructors are here to support your learning every step of the way. **Enroll and start building your future, today!**
 
 
 
 
-
-# Usage Policy for Course Materials
 
 ## Instructor Information
 
-**Instructor:** Faisal Memon  
-**Company:** [EmbarkX.com](http://www.embarkx.com)
+**Instructor:**  
+**Company:**
 
 ## Policy Overview
 
@@ -73,6 +66,6 @@ Thank you for respecting these guidelines and helping us maintain the integrity 
 
 ## Contact Information
 
-- **Email:** [embarkxofficial@gmail.com](mailto:embarkxofficial@gmail.com)
-- **Website:** [www.embarkx.com](http://www.embarkx.com)
+- **Email:** 
+- **Website:** 
 
